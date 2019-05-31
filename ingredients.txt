@@ -1,4 +1,6 @@
 Avocados
 Tomatoes
 adfa
+merge conflict added
+merge conflict added!
 add more stuff
