@@ -2,4 +2,6 @@ Avocados
 merge conflict locally
 Tomatoes
 adfa
+merge conflict added
+merge conflict added!
 add more stuff
