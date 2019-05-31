@@ -6,8 +6,11 @@ merge conflict added
 merge conflict added!
 i
 add more stuff
+<<<<<<< HEAD
 
 adf
 d
 dd
+
+=======
 
